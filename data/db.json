@@ -1,0 +1,17 @@
+"blogs": [
+    {
+        "title":"my first project",
+        "body":"lorem1...........",
+        "author":"keshan",
+        "id":1
+    },
+
+    {
+        "title":"my second project",
+        "body":"lorem2...........",
+        "author":"sasanka",
+        "id":1
+    },
+
+
+]
